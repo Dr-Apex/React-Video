@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dr-Apex/React-Video/static/css/main.8ad48a67.chunk.css",
+    "main.js": "/Dr-Apex/React-Video/static/js/main.c3bd1185.chunk.js",
+    "main.js.map": "/Dr-Apex/React-Video/static/js/main.c3bd1185.chunk.js.map",
+    "runtime-main.js": "/Dr-Apex/React-Video/static/js/runtime-main.30782722.js",
+    "runtime-main.js.map": "/Dr-Apex/React-Video/static/js/runtime-main.30782722.js.map",
+    "static/js/2.20d318ed.chunk.js": "/Dr-Apex/React-Video/static/js/2.20d318ed.chunk.js",
+    "static/js/2.20d318ed.chunk.js.map": "/Dr-Apex/React-Video/static/js/2.20d318ed.chunk.js.map",
+    "index.html": "/Dr-Apex/React-Video/index.html",
+    "precache-manifest.489d0327146ba468d0a141d0fce7c3bd.js": "/Dr-Apex/React-Video/precache-manifest.489d0327146ba468d0a141d0fce7c3bd.js",
+    "service-worker.js": "/Dr-Apex/React-Video/service-worker.js",
+    "static/css/main.8ad48a67.chunk.css.map": "/Dr-Apex/React-Video/static/css/main.8ad48a67.chunk.css.map",
+    "static/js/2.20d318ed.chunk.js.LICENSE.txt": "/Dr-Apex/React-Video/static/js/2.20d318ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30782722.js",
+    "static/js/2.20d318ed.chunk.js",
+    "static/css/main.8ad48a67.chunk.css",
+    "static/js/main.c3bd1185.chunk.js"
+  ]
+}
